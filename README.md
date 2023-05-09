@@ -6,4 +6,4 @@ Explore: https://arl009.github.io/Lab5_Starter/explore.html
 
 Expose: https://arl009.github.io/Lab5_Starter/expose.html
 
-Github Actions (Andric Li): https://github.com/arl009/introduction-to-github
+Continuous Integration (Andric Li): https://github.com/arl009/introduction-to-github
